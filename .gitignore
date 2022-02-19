@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Custom Files
+01-analyzing-marketing-campaigns-with-pd/notebooks/0.0-gk-base.ipynb
+00_CASE_STUDIES/0-base.txt
