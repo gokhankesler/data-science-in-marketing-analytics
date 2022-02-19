@@ -1,0 +1,30 @@
+--------
+Question
+--------
+Develop a campaign to encourage people go to ABC Company for retail services.
+    Follow up:  - how do you utilize data?
+                - how to decide market size?
+                - how to evaluate the campaign performance?
+
+(Ask clarifying questions)
+
+CUSTOMER FUNNEL (how to decide market size? - total number of likely buyers of product)
+1.  # of people who are exposed to ABC's marketing campaign (House Ads, Push, Facebook, Instagram, Email)
+2.  # of people who sign up as a customer to ABC
+2.  # of people who made first purchases
+3.  # of people who made second purchases or more
+
+DEFINITIONS (performance evaluaters)
+1.  Conversion Rate = # of unique people who signup / total # of unique people who we marketed to
+2.  Retantion Rate =  # of people who made second purchases or more / # of unique people who signup 
+
+SEGMENTATIONS
+1. age
+2. gender
+3. location
+4. past interactions with the business
+5. marketing channels users interacted with
+
+FILTERS
+1. unique customers who are exposed to more than one marketing channels
+
